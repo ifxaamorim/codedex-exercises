@@ -1,3 +1,5 @@
+## D1 - Criar um sistema de classificação usando uma instrução if/ elif/ else:
+
 nota = float (input("Insira sua avaliação (0 - 5): "))
 
 if nota > 4.5:
