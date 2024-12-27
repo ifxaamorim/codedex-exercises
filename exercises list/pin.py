@@ -1,6 +1,6 @@
 3# Exercicio sobre loop while introdutório
 
-print(" BANK OF CODÉDEX ")
+print(" == BANK OF CODÉDEX == ")
 
 pin = int(input("Insira sua senha: "))
 
