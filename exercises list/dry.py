@@ -1,6 +1,6 @@
 ## Estudo de funções
 
-## Aqui estão a primira função
+## Aqui estão duas funções básicas
 
 print(chr(455)) ## Retorna um caractere apontado por um inteiro
 
