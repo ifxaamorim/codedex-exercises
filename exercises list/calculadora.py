@@ -7,16 +7,16 @@ def soma(a,b):
 resultado = soma(5,5)
 print("Sua soma é:",resultado)
 
-def subitracao(a,b):
+def subtracao(a,b):
     return a - b
 
-resultado = subitracao(8,3)
+resultado = subtracao(8,3)
 print("Sua subtração é:", resultado)
 
-def mutiplicacao(a,b):
+def multiplicacao(a,b):
     return a * b
 
-resultado = mutiplicacao(15,2)
+resultado = multiplicacao(15,2)
 print("Sua multiplicação é:",resultado)
 
 def divisao(a,b):
