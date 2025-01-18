@@ -7,10 +7,10 @@ class Cidades:
         self.populacao = populacao
         self.ponto_ref = ponto_ref
 
-minas = Cidades("Minas Gerais", "Brasil", 230456789, ["Praça da liberdade", "Pirulito", "Ouro Preto"])
+minas = Cidades("Minas Gerais", "Brasil", 21322691, ["Praça da liberdade", "Praça 7", "Ouro Preto"])
 
 print(vars(minas))
 
-australia = Cidades("Sidney", "Australia", 230456789, ["Great Barrier Reef", "Ilha dos Cangurus", "Melbourne"])
+australia = Cidades("Sidney", "Australia", 26997958, ["Great Barrier Reef", "Ilha dos Cangurus", "Melbourne"])
 
 print(vars(australia))
