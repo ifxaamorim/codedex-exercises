@@ -1,8 +1,8 @@
 import random
 
-simbolos = ["🍒", "🍇", "🍉", "7️⃣"]
+simbolo = ["🍒", "🍇", "🍉", "7️⃣"]
 
-resultado = random.choices(simbolos, k=3)
+resultado = random.choices(simbolo, k=3)
 
 print(f"{resultado[0]} | {resultado[1]} | {resultado[2]}")
 
