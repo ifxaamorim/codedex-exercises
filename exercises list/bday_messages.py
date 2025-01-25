@@ -9,10 +9,7 @@ bday_messages = [
     "Mais um ano de você dando a volta no sol! 🌞"
 ]
 
-
 random_messages = ch(bday_messages)
-
-print(random_messages)
 
 
 
